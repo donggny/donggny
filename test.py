@@ -68,4 +68,3 @@ st.markdown("""
 - [How to Study Korean](https://www.howtostudykorean.com): 초급부터 고급까지 단계별 한국어 학습 자료 제공
 """)
 
-session.write('hello')
